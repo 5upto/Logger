@@ -1,0 +1,11 @@
+.git
+.gitignore
+__pycache__
+*.pyc
+.env
+.env.local
+Dockerfile
+.dockerignore
+*.log
+.vscode
+.idea

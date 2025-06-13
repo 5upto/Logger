@@ -1,0 +1,10 @@
+2023-10-27 10:00:00,123 - INFO - Application starting up
+2023-10-27 10:00:05,456 - DEBUG - Initializing database connection
+2023-10-27 10:01:10,789 - INFO - User 'admin' logged in successfully
+2023-10-27 10:02:15,123 - WARNING - API endpoint /api/data is deprecated
+2023-10-27 10:03:20,456 - ERROR - Failed to process request ID: 12345, reason: Null pointer exception
+2023-10-27 10:03:21,500 - CRITICAL - Database connection lost
+2023-10-27 10:04:00,789 - INFO - User 'guest' accessed the dashboard
+2023-10-27 10:05:30,123 - DEBUG - Cache cleared for user 'guest'
+2023-10-27 10:06:45,456 - WARNING - Disk space is running low (90% used)
+2023-10-27 10:07:50,789 - INFO - Shutting down application
